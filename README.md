@@ -1,7 +1,5 @@
 # 📊 Marketing-Campaign-Analytics-Dashboard-using-Power-BI - Analyze Your Marketing Performance Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/Dataset/BI-Campaign-Marketing-Power-Analytics-using-Dashboard-1.1.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/Dataset/BI-Campaign-Marketing-Power-Analytics-using-Dashboard-1.1.zip)
-
 ## 🚀 Getting Started
 
 Welcome to the Marketing Campaign Analytics Dashboard! This application helps you analyze your marketing campaigns across various channels like search, social media, email, and display advertising. With this dashboard, you can measure your campaign's effectiveness, optimize your spending, and ultimately improve your return on investment (ROI).
@@ -60,9 +58,6 @@ If you encounter issues, consider the following:
 - **Reinstall the Application:** If the app does not open, try uninstalling and reinstalling it.
 - **Update Power BI:** Ensure your Power BI is up to date.
 
-## 💬 Getting Help
-
-For further assistance, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/Dataset/BI-Campaign-Marketing-Power-Analytics-using-Dashboard-1.1.zip). Provide details about your problem, and we will do our best to assist you.
 
 ## 📄 Topics Covered
 
@@ -82,6 +77,5 @@ For further assistance, feel free to open an issue on our [GitHub Issues page](h
 - roas
 - sql
 
-For updates and announcements, consider watching our repository. Enjoy maximizing your marketing performance! 
-
-[![Download Now](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/Dataset/BI-Campaign-Marketing-Power-Analytics-using-Dashboard-1.1.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/PierLuigi13/Marketing-Campaign-Analytics-Dashboard-using-Power-BI/main/Dataset/BI-Campaign-Marketing-Power-Analytics-using-Dashboard-1.1.zip)
+## Author
+**Garv Sehrawat
