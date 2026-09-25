@@ -78,4 +78,4 @@ If you encounter issues, consider the following:
 - sql
 
 ## Author
-**Garv Sehrawat
+Garv Sehrawat
